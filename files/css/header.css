@@ -51,6 +51,7 @@ header {
     overflow: hidden;
     background-color: #3d3d3d;
     font-family: Arial;
+    position:relative;
 }
 
 
